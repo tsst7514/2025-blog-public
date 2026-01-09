@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "梧桐细雨",
-		"description": "梧桐细雨的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "梧桐细雨"
 	},
 	"theme": {
@@ -44,21 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/tsst7514",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "qq",
-			"value": "https://juejin.cn/user/2407580150",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "tsst7514@gmail.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
@@ -72,7 +72,7 @@
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
-		"text": "陕ICP备2024049545号-1",
+		"text": "",
 		"link": ""
 	}
 }
